@@ -1,0 +1,1 @@
+C:\wamp64\www\LeParasolVF\leparasol-PHP\mingw32-make
